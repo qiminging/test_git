@@ -13,8 +13,7 @@ import aaa from './components/aaa.vue'
     data() {
       return {
         currentTabComponent:aaa,
-        lia:1,
-        a:12
+        lia:1
       }
     },
     methods: {
