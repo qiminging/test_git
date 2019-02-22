@@ -19,7 +19,7 @@ import aaa from './components/aaa.vue'
     },
     methods: {
       aaabbb:function(){
-        console.log(this)
+        console.log(this,1)
       }
     },
   }
