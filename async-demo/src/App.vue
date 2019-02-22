@@ -14,6 +14,7 @@ import aaa from './components/aaa.vue'
       return {
         currentTabComponent:aaa,
         nnn:123
+        lia:1
       }
     },
     methods: {
